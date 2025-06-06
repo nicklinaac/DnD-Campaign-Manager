@@ -1,0 +1,18 @@
+{
+    "name": "Sample Character",
+    "race": "Human",
+    "class": "Monk",
+    "level": 1,
+    "attributes": {
+        "strength": 3,
+        "dexterity": 7,
+        "constitution": 16,
+        "intelligence": 18,
+        "wisdom": 11,
+        "charisma": 18
+    },
+    "inventory": [
+        "Staff",
+        "Adventurer's Pack"
+    ]
+}
